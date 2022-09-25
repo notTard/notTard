@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Maksim
-- 👀 Interested in backend WebDev
-- 🌱 I’m currently learning Java + Spring framework
+- 👀 Learning backend WebDev
+- 🌱 My Stack Java EE , Spring framework,React.js
 
 <!---
 notTard/notTard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
