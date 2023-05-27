@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Maksim
-- ✨ 20 y.o
+- ✨ 22 y.o
 - 👀 Learning backend WebDev
   - 🌱 Tech stack that i learn Java 8+ , Spring framework , React.js
   - 👾  Also C# with .NET platform
