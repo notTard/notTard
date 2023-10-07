@@ -2,7 +2,7 @@
 - ✨ 21 y.o
 - 👀 Learning backend WebDev
   - 🌱 Tech stack that i learn Java 8+ , Spring framework , React.js
-  - 👾  Also C# with .NET platform
+  - 👾 And C# with .NET platform as well
 
 <!---
 notTard/notTard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
