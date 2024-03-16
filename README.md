@@ -1,5 +1,5 @@
 - 👋 Hello, 
-- ✨ 21 y.o
+- ✨ 20+ y.o
 - 👀 Learning backend WebDev
   - 🌱 Tech stack that i learn Java 8+ , Spring framework , React.js
   - 👾 And C# with .NET platform as well
