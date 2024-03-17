@@ -3,6 +3,7 @@
 - 👀 Studying computer science
   - 🌱 Cybersecurity
   - 👾 Software development
+  - 📄 Code stack JavaScript, Java , python, C++
 
 <!---
 notTard/notTard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
