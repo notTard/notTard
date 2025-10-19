@@ -1,5 +1,5 @@
 - 👋 Hello, 
-- ✨ 20+ y.o
+- ✨ 23+ y.o
 - 👀 Studying computer science
   - 🌱 Cybersecurity
   - 👾 Software development
