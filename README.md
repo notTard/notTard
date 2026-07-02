@@ -1,8 +1,5 @@
-- 👋 Hello, 
-- ✨ 23 y.o
-- 👀 Studying computer science
-  - 🌱 Cybersecurity
-  - 👾 Software development
+- ✨ 24 y.o
+-  Software development
 
 <!---
 notTard/notTard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
